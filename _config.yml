@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Urbi Paul"
+title                    : "Aritra Ghosh"
 title_separator          : "-"
-name                     : &name "Urbi Paul"
+name                     : &name "Aritra Ghosh"
 description              : &description "Undergraduate at IISER Kolkata"
 url                      : https://urbipaul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "urbipaul/urbipaul.github.io"
+repository               : "ghosh-aritra/aritraghosh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Urbi Paul"
+  name             : "Aritra Ghosh"
   avatar           : "urbi_crop.jpeg"
   bio              : "Undergraduate at IISER Kolkata. <br> Biological Sciences"
   location         : "West Bengal, India"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "up20ms131@iiserkol.ac.in"
+  email            : "ag19ms108@iiserkol.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "urbipaul"
+  github           : "aritraghosh"
   google_plus      :
   keybase          :
   instagram        :
